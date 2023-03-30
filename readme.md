@@ -1,1 +1,1 @@
-Olá, Projeto Starbucks feito com HTML/CSS, projeto de estudo utilizando a técnica do display grid para posicionamento das áreas, por se tratar de um projeto de estudo, seu layout e imagens possuem direitos autorais.
+Olá, Projeto Starbucks feito com HTML/CSS, projeto de estudo utilizando a técnica do display grid para posicionamento das suas respectivas áreas, por se tratar de um projeto de estudo, seu layout e imagens possuem direitos autorais.
